@@ -37,13 +37,11 @@ The workflow is split into:
 - **Right:** Chat trigger + agent tool (vector store) + memory
 
 ---
-
 ## 📺 Project Walkthrough & Demo
-![Watch Now](https://youtu.be/Yke4INd_WXQ)
 
-> **Architecting Digital Ecosystems:** Using n8n, Groq, and Supabase to solve student funding challenges in South Africa.
+[![Project Demo Video](Gemini_Generated_Image_l2k937l2k937l2k9.png)](https://youtu.be/Yke4INd_WXQ)
 
-> **Architecting Digital Ecosystems:** This demo showcases how we use n8n, Groq, and Supabase to solve real-world student funding challenges in South Africa.
+*Click the image above to watch the full demo of the AI Bursary Counselor in action.*
 ---
 
 ## ✨ Why This Matters for Clients
