@@ -30,7 +30,7 @@
 
 ## 📸 Workflow Screenshot
 
-![n8n workflow – ingestion & agent nodes](assets/workflow-screenshot.png)
+![n8n workflow – ingestion & agent nodes](n8n.jpg)
 
 The workflow is split into:
 - **Left:** Scraping + chunking + embedding + storing  
