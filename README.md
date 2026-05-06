@@ -1,6 +1,6 @@
 # Olette – Career Wise Funding Assistant 🦉
 
-![Hero: Olette the funding mentor](assets/ollette-hero.png)
+![Hero: Olette the funding mentor](https://github.com/PLURONai/olette-funding-assistant/blob/367d578c3a2f9d84db1f92c5d533deafd6cf27e1/Gemini_Generated_Image_jxkpu0jxkpu0jxkp.png)
 
 > AI‑powered funding assistant for South African students. Built with **RAG**, **Groq (Llama 3.3)**, **Gemini embeddings**, and **Supabase** – all orchestrated in **n8n**.
 
