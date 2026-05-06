@@ -39,7 +39,9 @@ The workflow is split into:
 ---
 
 ## 📺 Project Walkthrough & Demo
-[![Olette AI Assistant Demo](https://github.com/PLURONai/olette-funding-assistant/blob/main/watermarked_img_15895618957362413613.png?raw=true)](https://youtu.be/Yke4INd_WXQ)
+![Watch Now](https://youtu.be/Yke4INd_WXQ)
+
+> **Architecting Digital Ecosystems:** Using n8n, Groq, and Supabase to solve student funding challenges in South Africa.
 
 > **Architecting Digital Ecosystems:** This demo showcases how we use n8n, Groq, and Supabase to solve real-world student funding challenges in South Africa.
 ---
