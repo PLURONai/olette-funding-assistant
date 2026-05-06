@@ -66,5 +66,5 @@ All placeholders are clearly marked in the workflow.
 
 ## 📬 Contact
 
-Built by **[Your Name]** – [your portfolio link]  
+Built by **[Plamedi Koto]**  
 Interested in a custom AI assistant for your organisation? Let’s talk.
